@@ -21,7 +21,28 @@ const consolas = [
         "fecha_lanzamiento": "2017-03-03",
         "portada": "https://www.gsmpro.cl/cdn/shop/files/nintendo-switch-standard.jpg?v=1698858446"
     },
-    // Agrega más consolas aquí
+    {
+        "id": 4,
+        "nombre": "Nintendo Switch",
+        "marca": "Nintendo",
+        "fecha_lanzamiento": "2017-03-03",
+        "portada": "https://www.gsmpro.cl/cdn/shop/files/nintendo-switch-standard.jpg?v=1698858446"
+    },
+    {
+        "id": 5,
+        "nombre": "Nintendo Switch",
+        "marca": "Nintendo",
+        "fecha_lanzamiento": "2017-03-03",
+        "portada": "https://www.gsmpro.cl/cdn/shop/files/nintendo-switch-standard.jpg?v=1698858446"
+    },
+    {
+        "id": 6,
+        "nombre": "Nintendo Switch",
+        "marca": "Nintendo",
+        "fecha_lanzamiento": "2017-03-03",
+        "portada": "https://www.gsmpro.cl/cdn/shop/files/nintendo-switch-standard.jpg?v=1698858446"
+    }
+    
 ];
 
 module.exports = {
